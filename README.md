@@ -1,7 +1,7 @@
 # Clustering-using-Affinity-propagation
  
 Get the code from here: 
-https://gumroad.com/l/ieTHg 
+https://gum.co/oosS
  
 Watch the code from here: 
 https://www.youtube.com/watch?v=OxMxpEkTj6Y
@@ -11,7 +11,7 @@ The code is implemented in Matlab and is very easy to use as shown in the video
 
 Contact me: 
 email: s-ahmed.saleh@zewailcity.edu.eg 
-List of all my codes: https://gumroad.com/ahmed_s
+List of all my codes: https://gumroad.com/ahmedsaleh
  
 Hire me directly on freelancer: 
 https://www.freelancer.com/u/AhmedSobhiSaleh 
